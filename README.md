@@ -7,6 +7,8 @@
    - [Exercise 01b-Prompt and Response](https://github.com/BL-MSCH-C220-F21/Exercise-01b-Prompt-and-Response)
    - [Exercise 01c-Export from Twine](https://github.com/BL-MSCH-C220-F21/Exercise-01c-Export-from-Twine)
    - [Exercise 01c-Basic Game Loop](https://github.com/BL-MSCH-C220-F21/Exercise-01c-Basic-Game-Loop)
+   - [Exercise 01d-render, get_input, and update](https://github.com/BL-MSCH-C220-F21/Exercise-01d-render-get_input-update)
+   - [Exercise 01d-Score and Moves](https://github.com/BL-MSCH-C220-F21/Exercise-01d-Score-and-Moves)
  - Arcade Space Shooter
  - Juicy Match-3
  - 2D Platformer
