@@ -10,6 +10,7 @@
    - [Exercise 01d-render, get_input, and update](https://github.com/BL-MSCH-C220-F21/Exercise-01d-render-get_input-update)
    - [Exercise 01d-Score and Moves](https://github.com/BL-MSCH-C220-F21/Exercise-01d-Score-and-Moves)
  - Arcade Space Shooter
+   - [Exercise 02a—Weapons](https://github.com/BL-MSCH-C220-F21/Exercise-02a-Weapons)
  - Juicy Match-3
  - 2D Platformer
  - 3D FPS
