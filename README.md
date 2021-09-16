@@ -1,6 +1,6 @@
 # This is the GitHub Account for MSCH-C220 at Indiana University Bloomington.
 
-[Godot Template](https://github.com/BL-MSCH-C220-F21/Godot-Template]
+[Godot Template](https://github.com/BL-MSCH-C220-F21/Godot-Template)
 
 ## These are the projects for this semester:
  - Interactive Fiction (Python)
