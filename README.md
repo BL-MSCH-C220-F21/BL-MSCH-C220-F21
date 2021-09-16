@@ -1,5 +1,7 @@
 # This is the GitHub Account for MSCH-C220 at Indiana University Bloomington.
 
+[Godot Template](https://github.com/BL-MSCH-C220-F21/Godot-Template]
+
 ## These are the projects for this semester:
  - Interactive Fiction (Python)
    - [Exercise 01a—Install Software](https://github.com/BL-MSCH-C220-F21/Exercise-01a-Install-Software)
@@ -13,6 +15,7 @@
    - [Exercise 02a—Weapons](https://github.com/BL-MSCH-C220-F21/Exercise-02a-Weapons)
    - [Exercise 02b—Mouse and Keyboard](https://github.com/BL-MSCH-C220-F21/Exercise-02b-Mouse-and-Keyboard)
    - [Exercise 02c—Asteroids and Enemies](https://github.com/BL-MSCH-C220-F21/Exercise-02c-Asteroids-and-Enemies)
+   - [Exercise 02d—Menu and HUD](https://github.com/BL-MSCH-C220-F21/Exercise-02d-Menu-and-HUD)
  - Juicy Match-3
  - 2D Platformer
  - 3D FPS
