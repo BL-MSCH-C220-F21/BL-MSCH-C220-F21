@@ -12,6 +12,7 @@
  - Arcade Space Shooter
    - [Exercise 02a—Weapons](https://github.com/BL-MSCH-C220-F21/Exercise-02a-Weapons)
    - [Exercise 02b—Mouse and Keyboard](https://github.com/BL-MSCH-C220-F21/Exercise-02b-Mouse-and-Keyboard)
+   - [Exercise 02c—Asteroids and Enemies](https://github.com/BL-MSCH-C220-F21/Exercise-02c-Asteroids-and-Enemies)
  - Juicy Match-3
  - 2D Platformer
  - 3D FPS
