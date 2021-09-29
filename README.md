@@ -18,6 +18,11 @@
    - [Exercise 02d—Menu and HUD](https://github.com/BL-MSCH-C220-F21/Exercise-02d-Menu-and-HUD)
  - Juicy Match-3
    - [Exercise 03a—Color and Particles](https://github.com/BL-MSCH-C220-F21/Exercise-03a-Color-and-Particles)
+   - [Exercise-03b-Tweening-and-Screen-Shake](https://github.com/BL-MSCH-C220-F21/Exercise-03b-Tweening-and-Screen-Shake)
+   - [Exercise-03c-Music-and-Sound](https://github.com/BL-MSCH-C220-F21/Exercise-03c-Music-and-Sound)
+   - Exercise-03d-Shaders
  - 2D Platformer
+   - [Exercise-04a-State-Machine](https://github.com/BL-MSCH-C220-F21/Exercise-04a-State-Machine)
+   - [Exercise-04b-Hide-and-Seek](https://github.com/BL-MSCH-C220-F21/Exercise-04b-Hide-and-Seek)
  - 3D FPS
  - 3D RPG
