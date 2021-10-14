@@ -22,7 +22,10 @@
    - [Exercise-03c-Music-and-Sound](https://github.com/BL-MSCH-C220-F21/Exercise-03c-Music-and-Sound)
    - Exercise-03d-Shaders
  - 2D Platformer
+   - [2D-Platformer-Character](https://github.com/BL-MSCH-C220-F21/2D-Platformer-Character)
    - [Exercise-04a-State-Machine](https://github.com/BL-MSCH-C220-F21/Exercise-04a-State-Machine)
    - [Exercise-04b-Hide-and-Seek](https://github.com/BL-MSCH-C220-F21/Exercise-04b-Hide-and-Seek)
+   - [Exercise-04c-Levels](https://github.com/BL-MSCH-C220-F21/Exercise-04c-Levels)
+   - [Exercise-04d-Save-and-Load](https://github.com/BL-MSCH-C220-F21/Exercise-04d-Save-and-Load)
  - 3D FPS
  - 3D RPG
