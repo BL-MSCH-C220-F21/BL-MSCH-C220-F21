@@ -28,4 +28,6 @@
    - [Exercise-04c-Levels](https://github.com/BL-MSCH-C220-F21/Exercise-04c-Levels)
    - [Exercise-04d-Save-and-Load](https://github.com/BL-MSCH-C220-F21/Exercise-04d-Save-and-Load)
  - 3D FPS
+   - [Exercise-05a-FPS](https://github.com/BL-MSCH-C220-F21/Exercise-05a-FPS)
+   - [Exercise-05b-Procedural-Generation](https://github.com/BL-MSCH-C220-F21/Exercise-05b-Procedural-Generation)
  - 3D RPG
