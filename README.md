@@ -30,4 +30,6 @@
  - 3D FPS
    - [Exercise-05a-FPS](https://github.com/BL-MSCH-C220-F21/Exercise-05a-FPS)
    - [Exercise-05b-Procedural-Generation](https://github.com/BL-MSCH-C220-F21/Exercise-05b-Procedural-Generation)
+   - [Exercise-05c-Materials](https://github.com/BL-MSCH-C220-F21/Exercise-05c-Materials)
+   - [Exercise-05c-Lighting](https://github.com/BL-MSCH-C220-F21/Exercise-05c-Lighting)
  - 3D RPG
