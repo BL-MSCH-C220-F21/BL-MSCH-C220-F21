@@ -38,3 +38,5 @@
    - [Godot-3D-Template](https://github.com/BL-MSCH-C220-F21/Godot-3D-Template)
    - [3D-Character](https://github.com/BL-MSCH-C220-F21/3D-Character)
    - [Exercise-06a-Create-a-Model](https://github.com/BL-MSCH-C220-F21/Exercise-06a-Create-a-Model)
+   - [Exercise-06b-Animation](https://github.com/BL-MSCH-C220-F21/Exercise-06b-Animation)
+   - [Exercise-06b-Handheld-Weapon](https://github.com/BL-MSCH-C220-F21/Exercise-06b-Handheld-Weapon)
