@@ -20,7 +20,7 @@
    - [Exercise 03a—Color and Particles](https://github.com/BL-MSCH-C220-F21/Exercise-03a-Color-and-Particles)
    - [Exercise-03b-Tweening-and-Screen-Shake](https://github.com/BL-MSCH-C220-F21/Exercise-03b-Tweening-and-Screen-Shake)
    - [Exercise-03c-Music-and-Sound](https://github.com/BL-MSCH-C220-F21/Exercise-03c-Music-and-Sound)
-   - Exercise-03d-Shaders
+   - [Exercise-03d-Shaders](https://github.com/BL-MSCH-C220-F21/Exercise-03d-Shaders)
  - 2D Platformer
    - [2D-Platformer-Character](https://github.com/BL-MSCH-C220-F21/2D-Platformer-Character)
    - [Exercise-04a-State-Machine](https://github.com/BL-MSCH-C220-F21/Exercise-04a-State-Machine)
