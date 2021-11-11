@@ -28,8 +28,13 @@
    - [Exercise-04c-Levels](https://github.com/BL-MSCH-C220-F21/Exercise-04c-Levels)
    - [Exercise-04d-Save-and-Load](https://github.com/BL-MSCH-C220-F21/Exercise-04d-Save-and-Load)
  - 3D FPS
+   - [Godot-3D-Template](https://github.com/BL-MSCH-C220-F21/Godot-3D-Template)
    - [Exercise-05a-FPS](https://github.com/BL-MSCH-C220-F21/Exercise-05a-FPS)
    - [Exercise-05b-Procedural-Generation](https://github.com/BL-MSCH-C220-F21/Exercise-05b-Procedural-Generation)
    - [Exercise-05c-Materials](https://github.com/BL-MSCH-C220-F21/Exercise-05c-Materials)
    - [Exercise-05c-Lighting](https://github.com/BL-MSCH-C220-F21/Exercise-05c-Lighting)
+   - [Exercise-05d-Networked-Game](https://github.com/BL-MSCH-C220-F21/Exercise-05d-Networked-Game)
  - 3D RPG
+   - [Godot-3D-Template](https://github.com/BL-MSCH-C220-F21/Godot-3D-Template)
+   - [3D-Character](https://github.com/BL-MSCH-C220-F21/3D-Character)
+   - [Exercise-06a-Create-a-Model](https://github.com/BL-MSCH-C220-F21/Exercise-06a-Create-a-Model)
