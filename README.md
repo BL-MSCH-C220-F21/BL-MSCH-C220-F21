@@ -49,6 +49,7 @@
    - [Antidote](https://github.com/BL-MSCH-C220-F21/Final-Project-Antidote)
    - [CDB](https://github.com/BL-MSCH-C220-F21/Final-Project-CDB)
    - [Evermann](https://github.com/BL-MSCH-C220-F21/Final-Project-CDB)
+   - [LLC](https://github.com/BL-MSCH-C220-F21/Final-Project-LLC)
    - [PAS](https://github.com/BL-MSCH-C220-F21/Final-Project-PAS)
    - [Poison](https://github.com/BL-MSCH-C220-F21/Final-Project-Poison)
    - [PRHY](https://github.com/BL-MSCH-C220-F21/Final-Project-PRHY)
